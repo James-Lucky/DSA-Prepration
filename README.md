@@ -83,10 +83,3 @@ This repository serves as my personal knowledge base for:
 
 ---
 
-## 📌 Platforms
-
-- LeetCode
-- GeeksforGeeks
-- HackerRank
-- CodeStudio
-- InterviewBit
