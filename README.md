@@ -1,55 +1,92 @@
-# DSA Practice
+# 💻 Coding Interview Preparation
 
-A collection of my **Data Structures and Algorithms practice in C++**, including concept implementations, important problems, common problem-solving patterns, and interview-focused questions.
+A curated collection of my coding practice, interview preparation, and software engineering notes.
 
-This repository is used to track my DSA progress and maintain a structured reference for revision.
+This repository contains solutions, explanations, and implementation examples covering Data Structures & Algorithms, System Design, JavaScript, SQL, and other core Computer Science topics.
 
-## Topics
+---
+
+## 📚 Contents
+
+### 🧩 Data Structures & Algorithms
 
 - Arrays
 - Strings
-- Sorting
-- Searching
 - Linked Lists
-- Stacks
-- Queues
-- Recursion & Backtracking
-- Hashing
+- Stacks & Queues
 - Trees
-- Binary Search Trees
-- Heaps
 - Graphs
-- Greedy Algorithms
 - Dynamic Programming
-- Bit Manipulation
+- Greedy Algorithms
+- Backtracking
+- Binary Search
+- Sliding Window
+- Two Pointers
+- Recursion
 
+---
 
-**⭐ Important**
+### 🏗 System Design
 
-These include problems useful for:
+- Low-Level Design (LLD)
+- High-Level Design (HLD)
+- Scalability Concepts
+- Databases
+- Caching
+- Load Balancing
+- Microservices
+- Message Queues
 
-- Coding interviews
-- Placement preparation
-- DSA revision
-- Understanding common patterns
-- Improving problem-solving skills
+---
 
-## Problem-Solving Approach
+### ⚡ JavaScript
 
-For each topic, I focus on:
+- Fundamentals
+- ES6+
+- Closures
+- Async Programming
+- Promises
+- Event Loop
+- DOM
+- Interview Questions
 
-1. Understanding the concept
-2. Implementing it from scratch
-3. Solving basic problems
-4. Solving important interview problems
-5. Learning common patterns
-6. Analyzing time and space complexity
-7. Revisiting difficult problems
+---
 
-## Language
+### 🗄 SQL
 
-Most solutions are written in **C++**.
+- Basic Queries
+- Joins
+- Group By
+- Window Functions
+- Subqueries
+- Common Interview Questions
 
-## Goal
+---
 
-Build strong fundamentals in Data Structures & Algorithms and maintain a clean collection of important problems for interview preparation and revision.
+## 🎯 Goal
+
+This repository serves as my personal knowledge base for:
+
+- Software Engineering Interviews
+- Campus Placements
+- Competitive Programming
+- Daily Coding Practice
+- Revision Notes
+
+---
+
+## 🚀 Languages
+
+- C++
+- JavaScript
+- SQL
+
+---
+
+## 📌 Platforms
+
+- LeetCode
+- GeeksforGeeks
+- HackerRank
+- CodeStudio
+- InterviewBit
