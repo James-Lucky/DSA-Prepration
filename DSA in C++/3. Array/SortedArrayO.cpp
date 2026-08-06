@@ -1,3 +1,4 @@
+// optimal solution 
 #include <iostream>
 using namespace std;
 
@@ -25,5 +26,4 @@ int main()
         cout << "False";
 
     return 0;
-}\
-// optimal solution 
+}
